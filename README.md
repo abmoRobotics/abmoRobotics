@@ -2,7 +2,7 @@
 
 - 👨‍💼 i am a robotics master student from Aalborg University in Denmark, currently working on my master thesis.
 -  📖 I'm a passionate about artificial intelligence and  reinforcement for robotic applications.
--  🔭 I'm currently working on reinforcement learning projects.
+
 <h3 align="left">📫 Contact with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/anton-bjorndahl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-mparis" height="30" width="40" /></a>   
