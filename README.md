@@ -1,4 +1,4 @@
-### Hello. 👋
+### Hello 👋
 
 - 👨‍💼 i am a robotics master student from Aalborg University in Denmark, currently working on my master thesis.
 -  📖 I'm a passionate about artificial intelligence and  reinforcement for robotic applications.
