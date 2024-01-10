@@ -39,11 +39,12 @@ Currently, I am working on migrating a reinforcement learning environment I've d
 <br>
 <br>
 
-- Learning By Cheating
+- Learning By Cheating.
 - Offline Reinforcement Learning
 - Combining Real World Datasets with Synthetic Datasets
 
-The video below shows the environment i am migrating to ORBIT from Isaac Gym.
+Learning by Cheating is used to train the agent using a simple and computationly fast observation space (heightmap), and transfer the learned policy to a model that uses RGB-D information instead of a heightmap. 
+The video below shows the environment i am migrating to ORBIT from Isaac Gym. 
 
 https://github.com/abmoRobotics/abmoRobotics/assets/56405924/ee8ab9c5-3bd6-48ab-8c2e-0a81b4292230
 
