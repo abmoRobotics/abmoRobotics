@@ -34,4 +34,16 @@ alt="OmniverseIsaacSim" width="40" height="40"/> </a>
 <a href="https://www.ros.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ros_logo" height="36"> </a>
 <a href="https://www.nvidia.com/en-us/omniverse/" target="_blank"> <img src="https://esri.github.io/cityengine/assets/img/omniverse.png" alt="OmniverseIsaacSim" width="40" height="40"/> </a>  
 </p> -->
+<h3 align="left">Currently Working on: </h3>
+Currently, I am working on migrating a reinforcement learning environment I've developed previously to <a href="https://github.com/NVIDIA-Omniverse/orbit">ORBIT</a>, and improving the scalability and generalizability of the system. The goal is to significantly enhance real-world performance and bridge the gap between simulation and reality (Sim2Real). To achieve these objectives, I am employing a range of state-of-the-art methods, including:
+<br>
+<br>
+
+- Learning By Cheating
+- Offline Reinforcement Learning
+- Combining Real World Datasets with Synthetic Datasets
+
+The video below shows the environment i am migrating to ORBIT from Isaac Gym.
+
+https://github.com/abmoRobotics/abmoRobotics/assets/56405924/ee8ab9c5-3bd6-48ab-8c2e-0a81b4292230
 
