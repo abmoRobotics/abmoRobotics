@@ -1,6 +1,6 @@
 ### Hello 👋
 
-- 👨‍💼 I am a robotics master student from Aalborg University in Denmark, currently working on my master thesis in generalizable learning-based navigation using reinforcement learning. 
+- 👨‍💼 I am a robotics master student from Aalborg University in Denmark, currently working on my master thesis in learning-based navigation using reinforcement learning. 
 -  📖 I'm a passionate about artificial intelligence, reinforcement learning, and scaling these systems to generalize to real-world robotic applications.
 
 <h3 align="left">📫 Contact with me:</h3>
