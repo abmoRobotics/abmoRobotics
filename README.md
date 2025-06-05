@@ -34,17 +34,21 @@ alt="OmniverseIsaacSim" width="40" height="40"/> </a>
 <a href="https://www.ros.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ros_logo" height="36"> </a>
 <a href="https://www.nvidia.com/en-us/omniverse/" target="_blank"> <img src="https://esri.github.io/cityengine/assets/img/omniverse.png" alt="OmniverseIsaacSim" width="40" height="40"/> </a>  
 </p> -->
-<h3 align="left">Previous Work: </h3>
-Previously, I have worked on migrating a reinforcement learning environment to <a href="https://github.com/isaac-sim/IsaacLab">Isaac Lab</a>, and improving the scalability and generalizability of the system. The goal was to significantly enhance real-world performance and bridge the gap between simulation and reality (Sim2Real). To achieve these objectives, I employed a range of state-of-the-art methods, including:
+<h3 align="left">Current Work: </h3>
+Building on <a href="https://github.com/isaac-sim/IsaacLab">Isaac Lab</a> and <a href="https://github.com/abmoRobotics/RLRoverLab">RLRoverLab</a>, i am currently working on improving the scalability and generalizability of AI agents for navigation. The goal is to significantly enhance real-world performance and bridge the gap between simulation and reality (Sim2Real). To achieve these objectives, I employed a range of state-of-the-art methods, including:
 <br>
 <br>
 
 - Learning By Cheating.
 - Offline Reinforcement Learning
 - Combining Real World Datasets with Synthetic Datasets
+- Hybrid Policies
 
 Learning by Cheating is used to train the agent using a simple and computationly fast observation space (heightmap), and transfer the learned policy to a model that uses RGB-D information instead of a heightmap. 
-<!-- The video below shows the environment i am migrating to ORBIT from Isaac Gym.  -->
 
-https://github.com/abmoRobotics/abmoRobotics/assets/56405924/ee8ab9c5-3bd6-48ab-8c2e-0a81b4292230
+<!--https://github.com/abmoRobotics/abmoRobotics/assets/56405924/ee8ab9c5-3bd6-48ab-8c2e-0a81b4292230 -->
+
+
+https://github.com/user-attachments/assets/761e4b90-5f60-4a98-af0f-54492099ae20
+
 
